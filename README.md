@@ -3,3 +3,4 @@
 ###### com.patterns
 ###### ___creational
 ###### ______builder
+###### ______singleton
