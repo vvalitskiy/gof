@@ -1,2 +1,5 @@
-# gof
-Design Patterns with Kotlin
+# Design Patterns with Kotlin
+# Project Structure
+###### com.patterns
+###### ___creational
+###### ______builder
